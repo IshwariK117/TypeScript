@@ -4,5 +4,3 @@ while(i<=10){
     console.log(i," ");
     i++;
 }
-
-//print numbers from 10 to 1
